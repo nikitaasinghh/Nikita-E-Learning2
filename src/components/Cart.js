@@ -18,7 +18,7 @@ const Cart = () => {
             <div className="each-product" key={product.id}>
               <div className="img-cont">
                 <img
-                  src={product.image}
+                  src={product.img}
                   alt="not-found"
                   className="responsive-img"
                 />
