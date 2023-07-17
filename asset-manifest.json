@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Nikita-E-Learning2/static/css/main.547019ef.chunk.css",
+    "main.js": "/Nikita-E-Learning2/static/js/main.95fe00cf.chunk.js",
+    "main.js.map": "/Nikita-E-Learning2/static/js/main.95fe00cf.chunk.js.map",
+    "runtime-main.js": "/Nikita-E-Learning2/static/js/runtime-main.7b55c1c2.js",
+    "runtime-main.js.map": "/Nikita-E-Learning2/static/js/runtime-main.7b55c1c2.js.map",
+    "static/js/2.10618cbb.chunk.js": "/Nikita-E-Learning2/static/js/2.10618cbb.chunk.js",
+    "static/js/2.10618cbb.chunk.js.map": "/Nikita-E-Learning2/static/js/2.10618cbb.chunk.js.map",
+    "index.html": "/Nikita-E-Learning2/index.html",
+    "static/css/main.547019ef.chunk.css.map": "/Nikita-E-Learning2/static/css/main.547019ef.chunk.css.map",
+    "static/js/2.10618cbb.chunk.js.LICENSE.txt": "/Nikita-E-Learning2/static/js/2.10618cbb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Nikita-E-Learning2/static/media/rose.62500e72.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b55c1c2.js",
+    "static/js/2.10618cbb.chunk.js",
+    "static/css/main.547019ef.chunk.css",
+    "static/js/main.95fe00cf.chunk.js"
+  ]
+}
